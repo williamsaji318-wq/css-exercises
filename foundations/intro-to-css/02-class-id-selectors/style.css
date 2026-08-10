@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+p {
+    background-color: hsl(350, 100%, 80%);
+    font-family: verdana,"deja vu sans",sans-serif;
+    
+}
+
+#no2 {
+    color: hsl(215, 84%, 38%);
+     font-size: 36px;
+}
+
+#no4 {
+    background-color: hsl(120, 55%, 60%);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.no3 {
+    font-size: 24px;
+}
